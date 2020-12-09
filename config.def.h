@@ -16,7 +16,7 @@ static const int failonclear = 1;
 static const int controlkeyclear = 1;
 
 /* default message */
-static const char * message = "Locked";
+static const char * message = "";
 
 /* text color */
 static const char * text_color = "#ffffff";
